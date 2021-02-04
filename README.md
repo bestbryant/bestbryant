@@ -2,6 +2,11 @@
 
 I am a lecturer in [Water Resources Engineering Department](http://pengairan.ub.ac.id/), [Brawijaya University](https://ub.ac.id/), located in Malang, Indonesia.
 
+### Education
+- **PhD** Candidate in Mangrove-Mudflat Dynamics ([IHE Delft](https://www.un-ihe.org/chair-groups/coastal-systems-engineering-port-development) and [TU Delft](https://www.tudelft.nl/citg/over-faculteit/afdelingen/hydraulic-engineering/sections/coastal-engineering))
+- **MEng** in Coastal Engineering (2013) [University of Miyazaki](https://www.miyazaki-u.ac.jp/civil/english/) and Brawijaya University
+- **BEng** in Water Resources Engineering (2011)
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on ...
